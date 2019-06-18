@@ -57,7 +57,7 @@ var debug;
 
 
 
-    name.value = '';
+    name = '';
     email.value = '';
     address.value = '';
     
